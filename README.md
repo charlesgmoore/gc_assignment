@@ -1,1 +1,0 @@
-# guardicore-assignment
